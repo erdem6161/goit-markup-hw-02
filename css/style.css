@@ -31,8 +31,9 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.03em;
     color: #4d5ae5;
+    font-weight: 700;
   }
   span {
     color: #2e2f42;
-    
+
   }
