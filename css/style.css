@@ -15,9 +15,7 @@ a {
   text-decoration: none;
 }
 
-button {
-  cursor: pointer;
-}
+
 
 .header-nav {
   color: black;
@@ -35,7 +33,6 @@ button {
   color: #404bbf;
 }
 
-
 .logo {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -50,18 +47,45 @@ span {
   color: #2e2f42;
 }
 
-
 .contacts-info {
-    font-style: normal ;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-    
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
+.contacts-item {
+  color: #434455;
+}
 .contacts-item:hover,
 .contacts-item:focus {
-    color: #404bbf
+  color: #404bbf;
+}
+
+.section-1{
+  background-color: #2e2f42;
+}
+
+.section-1-head {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.button {
+  cursor: pointer;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff
+}
+
+.button:hover,
+.button:focus {
+  background-color: #404BBF
 }
 
 .footer {
