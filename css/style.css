@@ -50,6 +50,20 @@ span {
   color: #2e2f42;
 }
 
+
+.contacts-info {
+    font-style: normal ;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    
+}
+
+.contacts-item:hover,
+.contacts-item:focus {
+    color: #404bbf
+}
+
 .footer {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
