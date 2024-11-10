@@ -1,10 +1,10 @@
 body {
-  box-sizing: border-box;
+  
   font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
   color: #434455;
-  flex-direction: column;
+  
 }
 
 ul,
