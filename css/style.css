@@ -1,10 +1,8 @@
 body {
-  
   font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
   color: #434455;
-  
 }
 
 ul,
@@ -15,8 +13,6 @@ li {
 a {
   text-decoration: none;
 }
-
-
 
 .header-nav {
   color: black;
@@ -63,7 +59,7 @@ span {
   color: #404bbf;
 }
 
-.section-first{
+.section-first {
   background-color: #2e2f42;
 }
 
@@ -76,19 +72,18 @@ span {
 }
 
 .button {
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   cursor: pointer;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #ffffff
-  
+  color: #ffffff;
 }
 
 .button:hover,
 .button:focus {
-  background-color: #404BBF
+  background-color: #404bbf;
 }
 
 .section-second-head {
@@ -97,27 +92,23 @@ span {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-
 }
 
-.section-second-item-text{
+.section-second-item-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
-
 }
 
-.section-second-item-head{
-
+.section-second-item-head {
+  letter-spacing: 0.02em;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   color: #2e2f42;
 }
 
-.section-thirth{
+.section-thirth {
   background-color: #f4f4fd;
-
-
 }
 
 .section-thirth-head {
@@ -129,9 +120,8 @@ span {
   color: #2e2f42;
 }
 
-.section-thirth-item{
+.section-thirth-item {
   background-color: #ffffff;
-
 }
 
 .section-thirth-info {
@@ -140,7 +130,6 @@ span {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-
 }
 
 .section-thirth-text {
@@ -155,7 +144,6 @@ span {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-
 }
 
 .section-fourth-info {
@@ -164,17 +152,15 @@ span {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-
 }
 
 .section-fourth-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
-
 }
 
 .footer {
-  color: #2e2f42;
+  background-color: #2e2f42;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -184,9 +170,7 @@ span {
 }
 
 .footer-head {
-
   color: #4d5ae5;
-
 }
 .footer-logo {
   color: #2e2f42;
