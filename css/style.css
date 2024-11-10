@@ -183,13 +183,18 @@ span {
   text-transform: uppercase;
 }
 
-.footer-logo {
-  color: #4d5ae5;
-}
+.footer-head {
 
-.footer span {
+  color: #4d5ae5;
+
+}
+.footer-logo {
   color: #2e2f42;
 }
+
+/* .footer span {
+  color: #2e2f42;
+} */
 
 .footer-text {
   line-height: 1.5;
